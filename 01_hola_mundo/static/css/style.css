@@ -1,0 +1,30 @@
+/*Este es un color de fondo*/
+
+header {
+    text-align: center; /* centrar texto */
+    background-color: rgb(115, 191, 235); /*cambia color de la letra*/
+}
+header:hover {
+    background-color: cadetblue;
+}
+main {
+    background-color: rgb(95, 93, 240);
+}
+main:hover {
+    background-color: rgb(65, 65, 122);
+}
+footer{
+    background-color: aquamarine;
+}
+footer:hover {
+    background-color: rgb(103, 160, 160);
+}
+h1 {
+    color:aqua
+}
+h2 {
+    color:darkblue
+}
+p {
+    color:dodgerblue
+}
